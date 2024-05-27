@@ -4,15 +4,13 @@
 # Hi there 👋 Amit here!
 
 <p align="center">
-  <img src=https://raw.githubusercontent.com/a-M-i-T/a-M-i-T/main/amit-github.jpg" height="400px" width="1000px">
+  <img src="https://raw.githubusercontent.com/a-M-i-T/a-M-i-T/main/amit-github.jpg" height="400px" width="1000px">
 </p>
 
-- 🌱 I’m currently learning and earning
-- 🔭 I’m currently working on Deep Learning Model Deployment on Azure
-
+- 🌱 I’m currently learning Laravel-11 Vilt Stack
+- 🔭 I’m also working on POS System and Ec Projects built with Laravel
 - 🤝 I’m looking to collaborate on NodeJs projects
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/arya-amit/">A Mit</a>
-
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=a-M-i-T&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=a-M-i-T&layout=compact)
@@ -52,7 +50,7 @@
 
 ### Platforms 👨‍
 <p>
-<a href="https://www.linkedin.com/in/arya-amit/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/arya-amit/">LinkedIn</a> <br>
 <a href="https://stackoverflow.com/users/4754517/amit-arya">Stack Overflow
 </a>
 </p>
